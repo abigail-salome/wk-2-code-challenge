@@ -8,7 +8,7 @@ The following program is an interactive program that allows a user to add a new 
 - Visual indication of purchased items (strikethrough text and different background color).
 
 ## Hosted URL
-https://github.com/abigail-salome/wk-2-code-challenge
+https://abigail-salome.github.io/wk-2-code-challenge/
 
 
 
